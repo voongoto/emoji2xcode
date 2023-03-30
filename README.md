@@ -27,7 +27,7 @@ For example:
 
 `python emoji_to_icon.py 😄`
 
-The resulting icon set will be saved in a folder named iconset on your desktop.
+The resulting icon set will be saved in a folder named *iconset* on your desktop.
 
 ## How It Works
 
